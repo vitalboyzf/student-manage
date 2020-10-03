@@ -1,0 +1,26 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfnb/student-manage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfnb/student-manage/issues"
+  },
+  "homepage": "https://github.com/zfnb/student-manage#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-router": "^9.4.0",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.10.7"
+  }
+}
